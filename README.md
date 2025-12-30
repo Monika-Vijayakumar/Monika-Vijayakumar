@@ -34,22 +34,22 @@ and I am now focusing on growing as a **Data Analyst**.
 
 ## 📌 Featured Projects  
 
-### 🚕 Bangalore Rapido Rides Analysis  
+### 🚕 [Bangalore Rapido Rides Analysis](https://github.com/Monika-Vijayakumar/Bangalore-Rapido-Rides-Analysis)
 **Tools:** Python, Power BI  
 - Analyzed ride data to identify **demand trends and peak usage patterns**  
 - Designed an **interactive dashboard** integrating Python insights to support operational decisions  
 
-### 🍽️ Restaurant Sales Analysis  
+### 🍽️ [Restaurant Sales Analysis](https://github.com/Monika-Vijayakumar/Restaurant-Sales-Analysis)
 **Tools:** Excel, Power BI  
 - Evaluated multi-category restaurant sales using **Excel pivot tables and formulas**  
 - Built **KPI dashboards** to monitor daily sales and performance trends  
 
-### 🏥 Healthcare Data Analysis  
+### 🏥 [Healthcare Data Analysis and Insights](https://github.com/Monika-Vijayakumar/Healthcare-Data-Analysis) 
 **Tools:** Excel  
 - Conducted patient- and treatment-level analysis using **pivot tables and charts**  
 - Created an **Excel report** highlighting key operational metrics for decision-making  
 
-### 🛒 E-Commerce Customer Churn Analysis  
+### 🛒 [E-Commerce Customer Churn Analysis (SQL)](https://github.com/Monika-Vijayakumar/Ecommerce-Customer-Churn-Analysis)  
 **Tools:** SQL  
 - Investigated historical transactional data to identify **key drivers of customer churn**  
 - Evaluated customer behavior, tenure, payment methods, and satisfaction scores  
