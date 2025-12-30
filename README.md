@@ -66,7 +66,8 @@ To secure an entry-level **Data Analyst** role where I can apply analytical skil
 - 💼 LinkedIn: [Monika Vijayakumar](https://www.linkedin.com/monika-vijayakumar1903)
 
 ---
-✨ *Learning every day, building step by step*
+✨ *Learning every day, building step by step.*
+
 ✨ *Project-driven, interview-prepared, and continuously growing as a data analyst.*
 
 Monika-Vijayakumar/Monika-Vijayakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
