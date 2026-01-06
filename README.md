@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Monika Vijayakumar  
 
-### 📊 Aspiring Data Analyst | Turning Data into Insights  
+### 📊 Data Analyst | Turning Data into Insights  
 ---
 
 ## 👀 About Me  
@@ -9,16 +9,16 @@ and creating **dynamic, actionable insights** through real-world projects.
 I enjoy working with data to uncover trends and support data-driven decision-making.
 
 I have previous experience as an **Application Support** and **Systems Engineer**,  
-where I worked with **SQL**, **system troubleshooting**, and **operational processes**,  
-and I am now focusing on growing as a **Data Analyst**.
+where I worked with **SQL to genearte reports and perform updates**, **application issues troubleshooting**, and **finding the root cause**,  
+and I am now focusing on growing as a **Data Analyst** to built a strong career in this field with my **problem solving** and **analytical skills**.
 
 ---
 
-## 🌱 Currently Learning & Preparing  
+## 🌱 Currently Learning & Upskilling but not limited to  
 🎓 **Data Analytics Certification** at **Entri Elevate**  
-- Completed **module-wise data analytics projects**  
-- Actively preparing for **mock interviews and assessments**  
-- Strengthening analytical thinking, SQL querying, and data storytelling skills  
+- Completed **module-wise data analytics projects**
+- Actively preparing for **mock interviews** and job search  
+- Strengthening analytical thinking, developing insights, SQL querying, and data storytelling skills  
 
 ---
 
